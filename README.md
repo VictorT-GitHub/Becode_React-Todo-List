@@ -73,4 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Introduction to React.js, simple Todo-List exercice.
 
-[-> Look at the result on the GitHub Page]()
+[-> Look at the result on the GitHub Page](https://victort-github.github.io/Becode_React-Todo-List/)
+
+!! WORK IN PROGRESS !!
