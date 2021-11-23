@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/victort-gitHub/becode_react-todo-list/static/js/main.d9062a75.chunk.js",
-    "main.js.map": "/victort-gitHub/becode_react-todo-list/static/js/main.d9062a75.chunk.js.map",
-    "runtime-main.js": "/victort-gitHub/becode_react-todo-list/static/js/runtime-main.db15bbe7.js",
-    "runtime-main.js.map": "/victort-gitHub/becode_react-todo-list/static/js/runtime-main.db15bbe7.js.map",
-    "static/js/2.d99a9bad.chunk.js": "/victort-gitHub/becode_react-todo-list/static/js/2.d99a9bad.chunk.js",
-    "static/js/2.d99a9bad.chunk.js.map": "/victort-gitHub/becode_react-todo-list/static/js/2.d99a9bad.chunk.js.map",
-    "index.html": "/victort-gitHub/becode_react-todo-list/index.html",
-    "static/js/2.d99a9bad.chunk.js.LICENSE.txt": "/victort-gitHub/becode_react-todo-list/static/js/2.d99a9bad.chunk.js.LICENSE.txt"
+    "main.js": "/Becode_React-Todo-List/static/js/main.d9062a75.chunk.js",
+    "main.js.map": "/Becode_React-Todo-List/static/js/main.d9062a75.chunk.js.map",
+    "runtime-main.js": "/Becode_React-Todo-List/static/js/runtime-main.2bb88d13.js",
+    "runtime-main.js.map": "/Becode_React-Todo-List/static/js/runtime-main.2bb88d13.js.map",
+    "static/js/2.d99a9bad.chunk.js": "/Becode_React-Todo-List/static/js/2.d99a9bad.chunk.js",
+    "static/js/2.d99a9bad.chunk.js.map": "/Becode_React-Todo-List/static/js/2.d99a9bad.chunk.js.map",
+    "index.html": "/Becode_React-Todo-List/index.html",
+    "static/js/2.d99a9bad.chunk.js.LICENSE.txt": "/Becode_React-Todo-List/static/js/2.d99a9bad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.db15bbe7.js",
+    "static/js/runtime-main.2bb88d13.js",
     "static/js/2.d99a9bad.chunk.js",
     "static/js/main.d9062a75.chunk.js"
   ]
