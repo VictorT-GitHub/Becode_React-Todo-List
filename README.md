@@ -71,8 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Becode_React-Todo-List
 
-Introduction to React.js, simple Todo-List exercice.
+Simple Todo-List exercice with local storage
 
-[-> Look at the result on the GitHub Page](https://victort-github.github.io/Becode_React-Todo-List/)
+My first project with React.js
 
-!! WORK IN PROGRESS !!
+**React.js** - **UUID** - **ESLint**
+
+**[Look at the result on the GitHub Page](https://victort-github.github.io/Becode_React-Todo-List/)**
