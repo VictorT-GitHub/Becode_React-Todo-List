@@ -8,6 +8,10 @@ My first project with React.js
 
 **[Look at the result on the GitHub Page](https://victort-github.github.io/Becode_React-Todo-List/)**
 
+## ScreenShot
+
+![screenshot_react-todolist](./screenshot_react-todolist.png)
+
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
