@@ -1,8 +1,6 @@
 import React from "react";
 
-// ---------------------------------------- TODO() ----------------------------------------
-export default function Todo({ todo, toggleCompleted, deleteTodo }) {
-  // -------------------- JSX --------------------
+function Todo({ todo, toggleCompleted, deleteTodo }) {
   return (
     <li>
       <label>
@@ -13,7 +11,10 @@ export default function Todo({ todo, toggleCompleted, deleteTodo }) {
         />
         {todo.name}
       </label>
+
       <button onClick={() => deleteTodo(todo.id)}>Delete Todo</button>
     </li>
   );
 }
+
+export default Todo;

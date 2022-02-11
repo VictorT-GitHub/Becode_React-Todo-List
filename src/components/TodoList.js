@@ -1,18 +1,18 @@
 import React from "react";
+
 import Todo from "./Todo";
 
-// ---------------------------------------- TODOLIST() ----------------------------------------
-// EXEMPLE SANS DESTRUCTURING
-export default function TodoList(props) {
-  // console.log(props);
-  // -------------------- JSX --------------------
+// (Example whithout props destructuring)
+function TodoList(props) {
   return (
     <section>
       <h5>
         {props.todos.filter((todo) => !todo.completed).length} left to do |{" "}
         {props.todos.filter((todo) => todo.completed).length} completed
       </h5>
+
       <h4>Todos</h4>
+
       <ul>
         {props.todos.map((todo) => (
           <Todo
@@ -26,3 +26,5 @@ export default function TodoList(props) {
     </section>
   );
 }
+
+export default TodoList;

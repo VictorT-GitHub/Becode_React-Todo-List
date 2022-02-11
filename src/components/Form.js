@@ -1,8 +1,6 @@
 import React from "react";
 
-// ---------------------------------------- FORM() ----------------------------------------
-export default function Form({ todoInputRef, addNewTodo, clearCompleted }) {
-  // -------------------- JSX --------------------
+function Form({ todoInputRef, addNewTodo, clearCompleted }) {
   return (
     <section>
       <input ref={todoInputRef} type="text" placeholder="Type a new todo" />
@@ -11,3 +9,5 @@ export default function Form({ todoInputRef, addNewTodo, clearCompleted }) {
     </section>
   );
 }
+
+export default Form;
