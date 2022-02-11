@@ -2,7 +2,7 @@ import React from "react";
 import Todo from "./Todo";
 
 // ---------------------------------------- TODOLIST() ----------------------------------------
-// !!! EXEMPLE SANS DESTRUCTURING !!! EXEMPLE SANS DESTRUCTURING !!! EXEMPLE SANS DESTRUCTURING !!!
+// EXEMPLE SANS DESTRUCTURING
 export default function TodoList(props) {
   // console.log(props);
   // -------------------- JSX --------------------

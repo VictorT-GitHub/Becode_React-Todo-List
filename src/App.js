@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import { v4 as uuidv4 } from "uuid";
-import Form from "./Form";
-import TodoList from "./TodoList";
+import Form from "./components/Form";
+import TodoList from "./components/TodoList";
 
 // ---------------------------------------- APP() ----------------------------------------
 function App() {
